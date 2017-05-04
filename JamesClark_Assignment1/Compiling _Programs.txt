@@ -1,0 +1,14 @@
+Steps to Run Program 
+
+Compile Code Using 
+
+for Question 2:
+
+cc JamesClark_Homework1Q2.c 
+
+For Question 3:
+
+cc JamesClark_Homework1Q3.c
+
+
+Then run program using ./a.out
