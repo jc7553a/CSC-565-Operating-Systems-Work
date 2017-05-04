@@ -1,0 +1,27 @@
+Steps to Compile Question 1 in C:
+
+Compile Using Command:
+
+cc -pthread JamesClark_Homework2_C.c
+
+Then run using ./a.out
+
+
+
+Steps to Compile Sodoku:
+
+Compile using Command:
+
+cc -pthread sodoku.c
+
+Then run using ./a.out
+
+
+
+Steps to Compile Question 2 in JAVA
+
+javac Driver.java
+
+javac findPrimes.java
+
+javac primes.java
